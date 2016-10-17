@@ -1,2 +1,2 @@
 # plurkon
-Open source client app for Plurk.com
+Open source Android client app for Plurk.com
